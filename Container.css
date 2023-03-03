@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0; }
+
+.heading{
+  color: #088a8f;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Fascinate', cursive;;
+}
+
+.img_div{
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.img_div img{
+  width : 200px;
+  height : 200px;
+}
